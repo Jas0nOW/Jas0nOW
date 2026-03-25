@@ -1,46 +1,30 @@
-# 🪐 Jannis S. (Jas0nOW)
+# Jannis S.
 
-### ⚡ Architect & System-Lead @ [WandaSystems](https://github.com/WandaSystems)
+Systems Architect at [WandaSystems](https://github.com/WandaSystems), focused on building AI systems that hold up in real operating environments.
 
-> "I don't just build software; I design the neural fabric for autonomous intelligence."
+I work across system architecture, long-horizon memory, voice interfaces, and the operational tooling required to move ideas into repeatable execution.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jas0nOW&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0nOW&layout=compact&theme=tokyonight)
+## Focus
 
----
+- Multi-agent system architecture
+- Memory and knowledge infrastructure
+- Voice and speech pipelines
+- Secure operational tooling
 
-## 🏛️ System DNA
+## Selected Work
 
-- **Neural Interaction:** Designing low-latency voice interfaces and visual feedback loops (Yuna).
-- **Memory Engineering:** Architecting long-term cognitive backbones for AI agents (Memory_OS).
-- **Zero-Trust Infrastructure:** Creating secure, encrypted secret-management systems (Key_Vault_OS).
-- **Agency-First Design:** Pushing the boundaries of autonomous human-AI partnership.
+- [WANDA](https://github.com/Jas0nOW/WANDA) - Workspace-aware orchestration system for agent workflows and voice-driven operation.
+- [AERIS](https://github.com/Jas0nOW/AERIS) - Terminal-first environment for operating complex AI systems.
+- [Vox-Voice](https://github.com/Jas0nOW/Vox-Voice) - Speech infrastructure for low-latency interaction.
+- [Wanda-MCC](https://github.com/Jas0nOW/Wanda-MCC) - Control surface for coordinating Wanda-based systems.
 
-## 🛠️ Tech & Architectures
+## Working Style
 
-| Domain | Focus | Stack |
-| :--- | :--- | :--- |
-| **Core Architecture** | System-Design & SSOT | Markdown-first, ADRs, Diátaxis |
-| **Neural-Interfaces** | STT/TTS & Realtime Feedback | Python, React, Shaders, Wayland |
-| **Knowledge Ops** | Semantic & Symbolic Memory | LanceDB, Knowledge Graphs, Vector-Ops |
-| **Infrastructure** | Secure-Ops & Automation | SSH/Tailscale, Vaulting, GH-Actions |
+- Build for maintainability, not demos.
+- Treat documentation and operations as core parts of the product.
+- Prefer explicit systems, clear interfaces, and measured iteration.
 
-## 🚀 The Ecosystem
+## Links
 
-- 🏗️ **[Memory_OS](https://github.com/WandaSystems/Memory_OS):** The universal neural backbone.
-- 🎙️ **[Yuna](https://github.com/WandaSystems/Yuna-Neural-Voice-Interface):** The neural voice interface.
-- 🔐 **[Key_Vault_OS](https://github.com/WandaSystems/Key_Vault_OS):** Zero-trust key management.
-
----
-
-## 🤝 Autonomous Partnership
-
-I work in close synergy with **[wanda-OS-dev](https://github.com/wanda-OS-dev)**, my autonomous AI partner. Together, we are building **[WandaSystems](https://github.com/WandaSystems)** — an ecosystem designed for the next era of professional agency.
-
----
-
-### 📡 Connect with the Vision
-- **Company:** [WandaSystems](https://github.com/WandaSystems)
-- **Inspiration:** Neural Interfaces, High-End Automation, Sovereign Intelligence.
-
----
-*Architecture is the art of predicting the future through code.*
+- Organization: [WandaSystems](https://github.com/WandaSystems)
+- Website: [WandaSystems on GitHub Pages](https://wanda-os-dev.github.io/wandasystems-site/)
