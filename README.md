@@ -38,6 +38,14 @@
   </a>
 </p>
 
+## Star History
+
+<p align="center">
+  <a href="https://star-history.com/#Jas0nOW/WANDA&Date">
+    <img src="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date" alt="Star history for Jas0nOW/WANDA" />
+  </a>
+</p>
+
 ## Core Direction
 
 - System design for multi-agent execution
