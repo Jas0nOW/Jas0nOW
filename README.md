@@ -12,22 +12,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Jas0nOW">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jas0nOW&show_icons=true&include_all_commits=true&rank_icon=percentile&theme=tokyonight&hide_border=true" alt="Jas0nOW GitHub stats" />
+  <img src="https://img.shields.io/github/followers/Jas0nOW?label=Followers&style=for-the-badge&logo=github&color=0f172a" alt="Jas0nOW followers" />
+  <img src="https://komarev.com/ghpvc/?username=Jas0nOW&style=for-the-badge&color=111827" alt="Jas0nOW profile views" />
+  <img src="https://img.shields.io/badge/Public%20Repos-5-1f2937?style=for-the-badge&logo=github" alt="Jas0nOW public repos" />
+  <img src="https://img.shields.io/github/stars/Jas0nOW/WANDA?label=WANDA%20Stars&style=for-the-badge&logo=github&color=334155" alt="WANDA stars" />
+</p>
+
+## Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Jas0nOW/WANDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=WANDA&theme=tokyonight&hide_border=true" alt="WANDA repository card" />
   </a>
-  <a href="https://github.com/Jas0nOW">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0nOW&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Jas0nOW top languages" />
+  <a href="https://github.com/Jas0nOW/AERIS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=AERIS&theme=tokyonight&hide_border=true" alt="AERIS repository card" />
   </a>
 </p>
 
-## Signature Systems
-
-| System | Role |
-| --- | --- |
-| [WANDA](https://github.com/Jas0nOW/WANDA) | Workspace-aware orchestration system for agent workflows, voice interfaces, and operational automation |
-| [AERIS](https://github.com/Jas0nOW/AERIS) | Terminal-first environment for operating complex AI systems |
-| [Vox-Voice](https://github.com/Jas0nOW/Vox-Voice) | Speech infrastructure for low-latency interaction and audio workflows |
-| [Wanda-MCC](https://github.com/Jas0nOW/Wanda-MCC) | Control surface for coordinating Wanda-based systems in active operations |
+<p align="center">
+  <a href="https://github.com/Jas0nOW/Vox-Voice">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=Vox-Voice&theme=tokyonight&hide_border=true" alt="Vox-Voice repository card" />
+  </a>
+  <a href="https://github.com/Jas0nOW/Wanda-MCC">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=Wanda-MCC&theme=tokyonight&hide_border=true" alt="Wanda-MCC repository card" />
+  </a>
+</p>
 
 ## Core Direction
 
@@ -46,3 +55,9 @@
 
 - Organization: [WandaSystems](https://github.com/WandaSystems)
 - Website: [WandaSystems on GitHub Pages](https://wanda-os-dev.github.io/wandasystems-site/)
+
+<p align="center">
+  <a href="https://github.com/Jas0nOW">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0nOW&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Jas0nOW top languages" />
+  </a>
+</p>
