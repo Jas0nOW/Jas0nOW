@@ -42,7 +42,11 @@
 
 <p align="center">
   <a href="https://star-history.com/#Jas0nOW/WANDA&Date">
-    <img src="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date" alt="Star history for Jas0nOW/WANDA" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date" />
+      <img src="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date" alt="Star history for Jas0nOW/WANDA" />
+    </picture>
   </a>
 </p>
 
