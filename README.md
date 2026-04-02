@@ -18,11 +18,24 @@
 
 ## Flagship
 
-<p align="center">
-  <a href="https://github.com/WandaSystems/WANDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WandaSystems&repo=WANDA&theme=tokyonight&hide_border=true" alt="WANDA repository card" />
-  </a>
-</p>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://github.com/WandaSystems/WANDA">
+<img src="https://img.shields.io/badge/WANDA-Autonomous_AI_Operating_Partner-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="WANDA" />
+</a>
+<br/>
+<sub>Modular AI system — orchestration, voice, memory</sub>
+</td>
+<td align="center">
+<a href="https://github.com/WandaSystems/Memory_OS">
+<img src="https://img.shields.io/badge/mnemos-Self--evolving_AI_Memory-111827?style=for-the-badge&logo=github&logoColor=white" alt="mnemos" />
+</a>
+<br/>
+<sub>495 tests · 15 MCP tools · zero dependencies</sub>
+</td>
+</tr>
+</table>
 
 ## Core Direction
 
