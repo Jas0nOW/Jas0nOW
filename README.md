@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Jannis S. // Jas0nOW</h1>
-  <p><strong>Systems Architect at <a href="https://github.com/WandaSystems">WandaSystems</a></strong></p>
-  <p>Building AI systems for operational environments: orchestration, memory, voice, and execution infrastructure.</p>
+  <p><strong>Founder & CEO at <a href="https://github.com/WandaSystems">WandaSystems</a></strong></p>
+  <p>Building autonomous AI infrastructure — memory, voice, orchestration — for systems that work in the real world.</p>
 </div>
 
 <p align="center">
@@ -14,48 +14,22 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Jas0nOW?label=Followers&style=for-the-badge&logo=github&color=0f172a" alt="Jas0nOW followers" />
   <img src="https://komarev.com/ghpvc/?username=Jas0nOW&style=for-the-badge&color=111827" alt="Jas0nOW profile views" />
-  <img src="https://img.shields.io/badge/Public%20Repos-5-1f2937?style=for-the-badge&logo=github" alt="Jas0nOW public repos" />
-  <img src="https://img.shields.io/github/stars/Jas0nOW/WANDA?label=WANDA%20Stars&style=for-the-badge&logo=github&color=334155" alt="WANDA stars" />
 </p>
 
-## Featured Repositories
+## Flagship
 
 <p align="center">
-  <a href="https://github.com/Jas0nOW/WANDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=WANDA&theme=tokyonight&hide_border=true" alt="WANDA repository card" />
-  </a>
-  <a href="https://github.com/Jas0nOW/AERIS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=AERIS&theme=tokyonight&hide_border=true" alt="AERIS repository card" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Jas0nOW/Vox-Voice">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=Vox-Voice&theme=tokyonight&hide_border=true" alt="Vox-Voice repository card" />
-  </a>
-  <a href="https://github.com/Jas0nOW/Wanda-MCC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jas0nOW&repo=Wanda-MCC&theme=tokyonight&hide_border=true" alt="Wanda-MCC repository card" />
-  </a>
-</p>
-
-## Star History
-
-<p align="center">
-  <a href="https://star-history.com/#Jas0nOW/WANDA&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date" />
-      <img src="https://api.star-history.com/svg?repos=Jas0nOW/WANDA&type=Date" alt="Star history for Jas0nOW/WANDA" />
-    </picture>
+  <a href="https://github.com/WandaSystems/WANDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WandaSystems&repo=WANDA&theme=tokyonight&hide_border=true" alt="WANDA repository card" />
   </a>
 </p>
 
 ## Core Direction
 
-- System design for multi-agent execution
-- Long-horizon memory and knowledge infrastructure
+- Autonomous AI systems that operate, not just assist
+- Long-horizon memory and knowledge infrastructure (mnemos)
 - Voice-first interaction and realtime feedback loops
-- Operational tooling built for repeatability, not demo polish
+- Operational tooling built for durability, not demos
 
 ## Engineering Style
 
