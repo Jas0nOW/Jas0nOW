@@ -54,9 +54,3 @@
 
 - Organization: [WandaSystems](https://github.com/WandaSystems)
 - Website: [WandaSystems on GitHub Pages](https://wanda-os-dev.github.io/wandasystems-site/)
-
-<p align="center">
-  <a href="https://github.com/Jas0nOW">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas0nOW&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Jas0nOW top languages" />
-  </a>
-</p>
